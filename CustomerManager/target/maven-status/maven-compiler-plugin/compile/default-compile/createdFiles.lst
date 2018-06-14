@@ -1,0 +1,10 @@
+com\mycompany\customermanager\DiscountCode.class
+com\mycompany\customermanager\beans\DiscountCodeFacade.class
+com\mycompany\customermanager\Customer.class
+com\mycompany\customermanager\beans\CustomerFacade.class
+com\mycompany\customermanager\beans\MicroMarketFacade.class
+com\mycompany\customermanager\MicroMarket_.class
+com\mycompany\customermanager\Customer_.class
+com\mycompany\customermanager\beans\AbstractFacade.class
+com\mycompany\customermanager\DiscountCode_.class
+com\mycompany\customermanager\MicroMarket.class
